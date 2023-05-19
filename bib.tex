@@ -1,0 +1,34 @@
+%\documentclass[a5paper,10pt,twoside]{book}
+\documentclass[a5paper,pagesize,10pt,bibtotoc,pointlessnumbers,
+normalheadings,DIV=9,twoside=false]{scrbook}
+\usepackage{multicol}
+\setlength{\columnsep}{1cm}
+\usepackage[greek]{babel}
+\usepackage{fontspec}
+\usepackage{verse}
+\usepackage{geometry, fontspec, hyperref, dirtree, graphicx, wrapfig, tikz}
+\usepackage{parskip}
+%dropcaps
+\usepackage{type1cm}
+\usepackage{lettrine}
+\graphicspath{ {./img/} }
+\geometry{a4paper, left=20mm, right=20mm, top=20mm}
+%\setmainfont{Arial}
+\setmainfont{DejaVu Serif}
+\makeatletter
+\begin{document}
+
+\pagenumbering{gobble}
+\textbf{Church Father's testing and Saints referenced:}
+\begin{itemize}
+    \item St. Justin Martyr
+    \subitem First apology
+    \item St. Augustine of Hippo
+    \subitem Tractates on the Gospel of John
+    \item St. John Chrysostom
+    \subitem Homily 2
+\end{itemize}
+\newpage
+\pagenumbering{arabic}
+\input{books/john.tex}
+\end{document}

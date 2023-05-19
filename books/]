@@ -1,0 +1,31 @@
+
+\begin{multicols}{2}
+
+\section*{JOHN}
+    \lettrine[lines=3,slope=4pt,nindent=-3pt]{I}{n} the beginning\footnotemark[1] was the Word\footnotemark[2], and the Word was with\footnotemark[3] God, and the Word was\footnotemark[4] God.
+He was in the beginning with God.
+All things were made through Him, and without Him nothing was made that was made. In Him was life, and the life was the light of men. And the light shines in the darkness, and the darkness did not comprehend it.
+
+Testing second paragraph
+\vfill\null
+\columnbreak
+
+\section*{ΙΩΑΝΝΗΝ}
+\lettrine[lines=3,slope=4pt,nindent=-3pt]{Ἐ}{ν} ἀρχῇ\footnotemark[1] ἦν ὁ λόγος\footnotemark[2], καὶ ὁ λόγος ἦν πρὸς\footnotemark[3] τὸν θεόν, καὶ θεὸς ἦν\footnotemark[4] ὁ λόγος. 2οὗτος ἦν ἐν ἀρχῇ πρὸς τὸν θεόν. 3πάντα δι’ αὐτοῦ ἐγένετο, καὶ χωρὶς αὐτοῦ ἐγένετο οὐδὲ ἕν. ὃ γέγονεν 4ἐν αὐτῷ ζωὴ ἦν, καὶ ἡ ζωὴ ἦν τὸ φῶς τῶν ἀνθρώπων· 5καὶ τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει, καὶ ἡ σκοτία αὐτὸ οὐ κατέλαβεν.
+\end{multicols}
+
+\footnotetext[1]{Beginning - (Gr. \textit{αρχη})
+\textit{\textbf{St. Basil the Great, Hexameron}} - ``The beginning, in effect, is indivisible and instantaneous. The beginning of the road is not yet the road, and that of the house is not yet the house; so the beginning of time is not yet time and not even the least particle of it. If some objector tell us that the beginning is a time, he ought then, as he knows well, to submit it to the division of time — a beginning, a middle and an end. Now it is ridiculous to imagine a beginning of a beginning. Further, if we divide the beginning into two, we make two instead of one, or rather make several, we really make an infinity, for all that which is divided is divisible to the infinite...''\\
+\textit{\textbf{St. John Chrysostom, Homily 2}} - ``For the intellect, having ascended to \textit{``the beginning''}, enquires what \textit{``beginning''}; and then finding the \textit{``was''} always outstripping its imagination, has no point at which to stay its thought; but looking intently onwards, and being unable to cease at any point, it becomes wearied out, and turns back to things below. For this \textit{``was in the beginning,''} is nothing else than expressive of ever being and being infinitely.''}
+
+
+\footnotetext[2]{Word - (Gr. \textit{λογος})
+\textit{\textbf{St. Justin Martyr, The First Apology}} -
+``Himself, who took shape, and became man, and was called Jesus Christ''\\
+\textit{\textbf{St. Augustine of Hippo, Tractates on the Gospel of John}} - ``This Word is unchangeable; although changeable things are made by it, the Word itself is unchangeable''
+}
+
+\footnotetext[3]{With - (Gr. \textit{πρὸς})}
+
+\footnotetext[4]{Was - (Gr. \textit{ἦν})}
+%For if God Is, as certainly He Is, then nothing was before Him. If He is Creator of all things, He must be first; if Master and Lord of all, then all, both creatures and ages, are after Him.
