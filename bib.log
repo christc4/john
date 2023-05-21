@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022/Arch Linux) (preloaded format=xelatex 2023.4.8)  21 MAY 2023 03:04
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022/Arch Linux) (preloaded format=xelatex 2023.4.8)  21 MAY 2023 10:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1046,7 +1046,55 @@ Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 File: bkm-dvipdfm.def 2020-11-06 v1.29 bookmark driver for dvipdfm (HO)
 \BKM@id=\count344
 ))
-(/home/dawn/john/books/john1.tex
+(/home/dawn/john/cover.tex
+Overfull \hbox (21.11964pt too wide) in paragraph at lines 1--2
+\TU/DejaVuSerif(0)/m/n/8 but with a most fervent and fire-full motion of intell
+ect endeavouring
+ []
+
+
+Overfull \hbox (5.46497pt too wide) in paragraph at lines 1--2
+\TU/DejaVuSerif(0)/m/n/8 befitting dignity, and hard to utter and most difficul
+t of unfolding
+ []
+
+
+Overfull \hbox (4.86731pt too wide) in paragraph at lines 4--5
+\TU/DejaVuSerif(0)/m/n/8 things amongst them that had believed, and the ill of 
+the scandal
+ []
+
+
+Overfull \hbox (0.5962pt too wide) in paragraph at lines 4--5
+\TU/DejaVuSerif(0)/m/n/8 imagined that the Word was then barely called to the b
+eginning
+ []
+
+
+Overfull \hbox (29.06496pt too wide) in paragraph at lines 4--5
+\TU/DejaVuSerif(0)/m/n/8 that he would both strenuously assist themselves with 
+the illumination
+ []
+
+)
+Overfull \hbox (9.97511pt too wide) in paragraph at lines 6--17
+[]\TU/DejaVuSerif(0)/m/n/8 The disciple grieving then over them that were lost 
+and corrupted
+ []
+
+
+Overfull \hbox (0.74426pt too wide) in paragraph at lines 6--17
+\TU/DejaVuSerif(0)/m/n/8 after, betakes himself to making the book: and the mor
+e human
+ []
+
+LaTeX Font Info:    Font shape `TU/DejaVuSerif(0)/m/sl' in size <8> not availab
+le
+(Font)              Font shape `TU/DejaVuSerif(0)/m/it' tried instead on input 
+line 17.
+[1
+
+] (/home/dawn/john/books/john1.tex
 
 LaTeX Font Warning: Font shape `TU/DejaVuSerif(0)/m/sc' undefined
 (Font)              using `TU/DejaVuSerif(0)/m/n' instead on input line 14.
@@ -1092,40 +1140,80 @@ Overfull \hbox (10.36505pt too wide) in paragraph at lines 19--20
 \TU/DejaVuSerif(0)/m/sc/8 θεόν.$[]$ πάντα[] δι’ αὐτοῦ ἐγένε-
  []
 
-)
-LaTeX Font Info:    Font shape `TU/DejaVuSerif(0)/m/sl' in size <8> not availab
-le
-(Font)              Font shape `TU/DejaVuSerif(0)/m/it' tried instead on input 
-line 18.
- [1
+[1]
+Overfull \hbox (1.64069pt too wide) in paragraph at lines 43--44
+\TU/DejaVuSerif(0)/m/sc/8 ἦν τὸ φῶς[] τῶν ἀνθρώπων·$[]$
+ []
 
-] (/home/dawn/john/books/saints.tex
 
-! LaTeX Error: Can be used only in preamble.
+Overfull \hbox (14.03815pt too wide) in paragraph at lines 43--44
+\TU/DejaVuSerif(0)/m/sc/8 καὶ τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει,
+ []
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.1 \documentclass
-                  {article}
-? 
-! Emergency stop.
- ...                                              
-                                                  
-l.1 \documentclass
-                  {article}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
 
- 
+Overfull \hbox (5.5694pt too wide) in paragraph at lines 43--44
+\TU/DejaVuSerif(0)/m/sc/8 καὶ ἡ σκοτία αὐτὸ οὐ κατέλα-
+ []
+
+[2]
+Overfull \hbox (1.56134pt too wide) in paragraph at lines 56--57
+[]$[]$ \TU/DejaVuSerif(0)/m/sc/8 There was a man sent from
+ []
+
+
+Overfull \hbox (2.75359pt too wide) in paragraph at lines 56--57
+\TU/DejaVuSerif(0)/m/sc/8 god, whose name was John.$[]$
+ []
+
+
+Overfull \hbox (3.37408pt too wide) in paragraph at lines 56--57
+\TU/DejaVuSerif(0)/m/sc/8 This man came for a witness,
+ []
+
+
+Overfull \hbox (14.06525pt too wide) in paragraph at lines 56--57
+\TU/DejaVuSerif(0)/m/sc/8 believe.$[]$ He was not that Light,
+ []
+
+
+Overfull \hbox (1.12799pt too wide) in paragraph at lines 56--57
+\TU/DejaVuSerif(0)/m/sc/8 but was sent to bear witness
+ []
+
+
+Overfull \hbox (3.94049pt too wide) in paragraph at lines 56--57
+\TU/DejaVuSerif(0)/m/sc/8 to every man coming into the
+ []
+
+
+Overfull \hbox (1.64069pt too wide) in paragraph at lines 58--59
+\TU/DejaVuSerif(0)/m/sc/8 ἦν τὸ φῶς[] τῶν ἀνθρώπων·$[]$
+ []
+
+
+Overfull \hbox (14.03815pt too wide) in paragraph at lines 58--59
+\TU/DejaVuSerif(0)/m/sc/8 καὶ τὸ φῶς ἐν τῇ σκοτίᾳ φαίνει,
+ []
+
+
+Overfull \hbox (5.5694pt too wide) in paragraph at lines 58--59
+\TU/DejaVuSerif(0)/m/sc/8 καὶ ἡ σκοτία αὐτὸ οὐ κατέλα-
+ []
+
+) [3] (/home/dawn/john/bib.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `bib.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
 Here is how much of TeX's memory you used:
- 28409 strings out of 476156
- 589892 string characters out of 5814964
- 1082674 words of memory out of 5000000
+ 28410 strings out of 476156
+ 589772 string characters out of 5814964
+ 1074675 words of memory out of 5000000
  48736 multiletter control sequences out of 15000+600000
  472819 words of font info for 62 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  108i,8n,106p,10635b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
-Output written on /home/dawn/john/bib.pdf (1 page).
+
+Output written on /home/dawn/john/bib.pdf (4 pages).
