@@ -1,1 +1,3 @@
 # john
+
+Thus one may see the other Evangelists with great exactness giving the account of our Saviour's genealogy in the Flesh, and bringing down step by step those from Abraham unto Joseph, or again carrying up those from Joseph to Adam. But we find the blessed John not caring to be over-studious about these, but with a most fervent and fire-full motion of intellect endeavouring to lay hold of those very things that are above human mind, and daring to explain the unspeakable and unutterable Generation of God the Word. For he knew that the glory of God hideth speech, and greater than our idea and utterance is the God-befitting dignity, and hard to utter and most difficult of unfolding are the properties of the Divine Nature.

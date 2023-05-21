@@ -1,0 +1,25 @@
+\documentclass{article}
+
+\usepackage{graphicx} % Required for including images
+\usepackage{lipsum} % For generating dummy text
+
+% Define a command for the saint entry
+\newcommand{\saintentry}[3]{%
+  \noindent
+  \begin{minipage}{0.2\textwidth}
+  \end{minipage}%
+  \begin{minipage}{0.8\textwidth}
+    \textbf{#2}\\
+    Lived: #3\\
+    \lipsum[1][1-2]\\ % Replace with the actual fact file
+  \end{minipage}%
+  \par\vspace{1em}
+}
+
+\begin{document}
+
+\saintentry{image1}{Saint Name 1}{Time 1}
+\saintentry{image2}{Saint Name 2}{Time 2}
+\saintentry{image3}{Saint Name 3}{Time 3}
+
+\end{document}
